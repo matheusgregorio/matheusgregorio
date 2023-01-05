@@ -3,7 +3,7 @@
 
 - 🔥 FullStack Developer
 
-- 🎓 Graduated in Analysis and development of systems
+- 🎓 Graduated in Analysis and systems development
 
 - 💼 working at **ClubIT Solutions**
 
