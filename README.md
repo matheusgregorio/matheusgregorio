@@ -18,7 +18,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=007ACC)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=FLAT&logo=.net&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/AngularJS-DD0031?style=flat&logo=angularjs&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)&nbsp;
 ## Contact
 
